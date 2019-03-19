@@ -3,9 +3,9 @@
 ## Content
 
 - Rendering engines
-- [Browser Object Mode](./bom.md)
+- [Browser Object Model](./bom.md)
 - [Document Object Model](./dom.md)
-- Manipulate the DOM with JS
+- [Manipulate the DOM with JS](.dom.md)
 
 ## Browser Engine
 
