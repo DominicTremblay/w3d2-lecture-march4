@@ -5,7 +5,7 @@
 - Rendering engines
 - [Browser Object Model](./bom.md)
 - [Document Object Model](./dom.md)
-- [Manipulate the DOM with JS](.dom.md)
+- [Manipulate the DOM with JS](./dom.md)
 
 ## Browser Engine
 
